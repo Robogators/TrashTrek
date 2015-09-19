@@ -9,4 +9,7 @@ Instructions for setting up GITHub and contributing to the Robogators Team2 Repo
 4. Log on with your account.
 5. Go to https://github.com/Robogators/TrashTrek
 6. On the lower right side of the page you will have a link to "Clone in Desktop" - Click it to map the Robogators Repository to your computer.
+   Set up a local path on your computer that you will remember. This is where your files will be stored.
    Now every time you open your GitHub Application you can click "Sync" and you will get all changes submitted by other contributers.
+
+
