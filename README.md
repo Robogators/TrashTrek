@@ -12,4 +12,6 @@ Instructions for setting up GITHub and contributing to the Robogators Team2 Repo
    Set up a local path on your computer that you will remember. This is where your files will be stored.
    Now every time you open your GitHub Application you can click "Sync" and you will get all changes submitted by other contributers.
 
+7. 
+
 
